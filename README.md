@@ -1,7 +1,7 @@
 ---
 services: Monitor
 platforms: java
-author: hovsepm
+author: yaohaizh
 ---
 
 ## Getting Started with Monitor - Security Breach Or Risk Activity Log Alerts - in Java ##
