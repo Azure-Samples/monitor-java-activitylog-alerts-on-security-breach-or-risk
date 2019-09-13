@@ -4,9 +4,8 @@ languages:
 - java
 products:
 - azure
-extensions:
-- services: Monitor
-- platforms: java
+description: "Getting Started with Monitor - Security Breach Or Risk Activity Log Alerts - in Java"
+urlFragment: monitor-java-activitylog-alerts-on-security-breach-or-risk
 ---
 
 # Getting Started with Monitor - Security Breach Or Risk Activity Log Alerts - in Java #
