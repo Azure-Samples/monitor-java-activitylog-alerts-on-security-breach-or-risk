@@ -5,8 +5,8 @@ languages:
 products:
 - azure
 extensions:
-  services: Monitor
-  platforms: java
+- services: Monitor
+- platforms: java
 ---
 
 # Getting Started with Monitor - Security Breach Or Risk Activity Log Alerts - in Java #
